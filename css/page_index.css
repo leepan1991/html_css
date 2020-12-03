@@ -1,0 +1,44 @@
+.all_w {
+    width: 940px;
+    margin: 0 auto;
+}
+
+.header_content {
+    padding-top: 37px;
+    padding-bottom: 46px;
+    height: 472px;
+
+    background: url("../img/body-bg.png") repeat-x;
+}
+
+.nav {
+    float: right;
+    margin-top: 22px;
+
+}
+
+.nav li {
+    float: left;
+    padding: 0px 10px 8px 10px;
+    border-left: 1px #d6d6d6 dotted;
+}
+
+.nav a {
+    font: bold 14px Georgia;
+    color: #666666;
+    text-decoration: none;
+}
+
+.nav a:hover {
+    text-decoration: underline;
+}
+
+.nav p {
+    font: 11px Tahoma;
+    color: #b7b7b7;
+}
+
+.logo {
+    float: left;
+    margin-left: 15px;
+}
